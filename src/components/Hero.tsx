@@ -28,18 +28,28 @@ const Hero = () => {
 
 
           {/* Name and Title */}
-          <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-4">
-            Hi, I'm <span className="text-orange-500">Rajanarender</span>
-          </h1>
-          <p className="text-xl md:text-2xl text-gray-600 mb-6">
-            Passionate <span className="text-orange-500 font-semibold">Full Stack Developer</span> & Final Year Student
-          </p>
+          <h1
+  className="text-4xl md:text-6xl font-bold text-gray-800 mb-4"
+  style={{ fontFamily: 'Times New Roman, serif' }}
+>
+  Hi, I'm <span className="text-orange-500">Rajanarender</span>
+</h1>
 
-          {/* Description */}
-          <p className="text-lg text-gray-700 mb-8 max-w-2xl mx-auto leading-relaxed">
-            In search of chances to make a meaningful contribution to initiatives that revolve around technology and innovation.
-            packed with new ideas and ready to give my all to your team..
-          </p>
+<p
+  className="text-xl md:text-2xl text-gray-600 mb-6"
+  style={{ fontFamily: 'Times New Roman, serif' }}
+>
+  Passionate <span className="text-orange-500 font-semibold">Full Stack Developer</span> & Final Year Student
+</p>
+
+{/* Description */}
+<p
+  className="text-lg text-gray-700 mb-8 max-w-2xl mx-auto leading-relaxed"
+  style={{ fontFamily: 'Times New Roman, serif' }}
+>
+  In search of chances to make a meaningful contribution to initiatives that revolve around technology and innovation.
+  Packed with new ideas and ready to give my all to your team.
+</p>
 
           {/* Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
