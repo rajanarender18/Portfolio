@@ -69,18 +69,17 @@ const Header = () => {
                 {/* Glowing background effect */}
                 <div className="absolute inset-0 bg-gradient-to-r from-orange-400 to-orange-600 rounded-xl blur-lg opacity-20 group-hover:opacity-40 transition-opacity duration-300"></div>
                 
-                {/* Main logo */}
                 <div className="relative bg-gradient-to-r from-orange-500 to-orange-600 text-white px-6 py-3 rounded-xl shadow-lg group-hover:shadow-2xl transition-all duration-300 transform group-hover:scale-105">
-                  <div className="flex items-center space-x-2">
-                    <Sparkles className="animate-pulse" size={20} />
-                    <span className="text-xl font-black tracking-tight">
-                      Raj<span className="text-orange-200">anarender</span>
-                    </span>
-                  </div>
-                  
-                  {/* Animated border */}
-                  <div className="absolute inset-0 rounded-xl border-2 border-orange-300/50 group-hover:border-orange-200 transition-colors duration-300"></div>
-                </div>
+  <div className="flex items-center space-x-2">
+    <Sparkles className="animate-pulse" size={20} />
+    <span
+      style={{ fontFamily: 'Times New Roman, serif' }}
+      className="text-xl font-bold tracking-tight"
+    >
+      Raj<span className="text-orange-200">anarender</span>
+    </span>
+  </div>
+</div>
               </div>
             </div>
 
