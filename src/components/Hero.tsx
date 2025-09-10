@@ -16,7 +16,7 @@ const Hero = () => {
           <div className="mb-8">
   <div className="w-72 h-72 mx-auto rounded-full overflow-hidden shadow-2xl">
     <img
-      src="https://res.cloudinary.com/dfjlxm0ib/image/upload/v1745476948/WhatsApp_Image_2025-04-24_at_12.08.18_c0691ec8_oeehyb.jpg"
+      src="https://res.cloudinary.com/dfjlxm0ib/image/upload/v1757481128/IMG_0208_xxp9ng.jpg"
       alt="Profile"
       className="w-full h-full object-cover"
     />
