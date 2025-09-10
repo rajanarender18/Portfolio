@@ -77,7 +77,7 @@ const Resume = () => {
                   </div>
                   <div className="flex items-center space-x-3">
                     <Phone className="text-orange-500" size={18} />
-                    <span className="text-gray-700">+91 9008121614</span>
+                    <span className="text-gray-700">+91 9908121614</span>
                   </div>
                   <div className="flex items-center space-x-3">
                     <MapPin className="text-orange-500" size={18} />
