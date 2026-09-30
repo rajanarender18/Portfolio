@@ -11,7 +11,7 @@ const About = () => {
               About <span className="text-orange-500">Me</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              A passionate final-year student eager to make a meaningful impact in the tech industry
+              A passionate Computer science graduate eager to make a meaningful impact in the tech industry.
             </p>
           </div>
 
@@ -21,7 +21,7 @@ const About = () => {
               <div className="bg-gradient-to-br from-orange-400 to-orange-600 rounded-2xl p-8 shadow-2xl">
                 <div className="bg-white rounded-xl p-8 text-center">
                   <GraduationCap size={80} className="text-orange-500 mx-auto mb-4" />
-                  <h3 className="text-2xl font-bold text-gray-800 mb-2">Final Year Student</h3>
+                  <h3 className="text-2xl font-bold text-gray-800 mb-2">CSE Graduate</h3>
                   <p className="text-gray-600">Computer Science Engineering</p>
                 </div>
               </div>
@@ -33,7 +33,7 @@ const About = () => {
                 Hello! I'm Rajanarender
               </h3>
               <p className="text-gray-700 mb-6 leading-relaxed">
-                I'm a final-year Computer Science Engineering student with a passion for creating innovative
+                I'm a Computer Science Engineering Graduate with a passion for creating innovative
                 solutions through technology. My journey in programming started with curiosity and has evolved
                 into a deep commitment to building impactful applications.
               </p>
@@ -52,7 +52,7 @@ const About = () => {
                   <div>
                     <h4 className="font-semibold text-gray-800 mb-1">Career Objective</h4>
                     <p className="text-gray-600">
-                      Seeking internship or entry-level opportunities to apply my skills and contribute to innovative projects
+                      Seeking entry-level opportunities to apply my skills and contribute to innovative projects
                     </p>
                   </div>
                 </div>
