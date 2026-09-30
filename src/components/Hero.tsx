@@ -39,7 +39,7 @@ const Hero = () => {
   className="text-xl md:text-2xl text-gray-600 mb-6"
   style={{ fontFamily: 'Times New Roman, serif' }}
 >
-  Passionate <span className="text-orange-500 font-semibold">Full Stack Developer</span> & Final Year Student
+  Passionate <span className="text-orange-500 font-semibold"> Data Analyst, Full Stack Developer </span> & Computer Science Graduate.
 </p>
 
 {/* Description */}
