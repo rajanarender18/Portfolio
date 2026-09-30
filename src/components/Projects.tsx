@@ -3,6 +3,24 @@ import {Github, Code, Smartphone, Globe } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
+  title: 'Sales Performance & Customer Insights Dashboard',
+  description: 'Developed an interactive Tableau dashboard to analyze sales, profit, and customer behavior across regions and product categories. Enhanced KPI metrics and trend analysis to identify high-performing products and loss-making segments, while implementing filters, calculated fields, and drill-down functionality to provide actionable business insights.',
+  image: 'YOUR_TABLEAU_IMAGE_URL',
+  tech: ['Tableau', 'Microsoft Excel', 'Data Cleaning', 'Calculated Fields', 'KPI Analysis', 'Interactive Dashboards'],
+  github: 'YOUR_GITHUB_LINK',
+  category: 'Data Analytics',
+  icon: BarChart3,
+    },
+    {
+  title: 'Cricket Best XI Selection',
+  description: 'Analyzed historical T20 cricket match data to identify the Best Playing XI using performance metrics such as batting average and strike rate. Cleaned, transformed, and modeled raw CSV and JSON datasets using Power Query, created optimized DAX measures and calculated columns, and designed an interactive Power BI dashboard with filters, KPIs, and visual comparisons for data-driven player analysis.',
+  image: 'YOUR_CRICKET_POWERBI_IMAGE_URL',
+  tech: ['Power BI', 'Power Query', 'DAX', 'Data Cleaning', 'Data Modeling', 'Data Visualization', 'Microsoft Excel', 'CSV', 'JSON'],
+  github: 'YOUR_GITHUB_LINK',
+  category: 'Data Analytics',
+  icon: BarChart3,
+    },
+    {
       title: 'Tripify - Travel Platform',
       description: 'Tripify is a full-stack travel platform simplify travel planning by offering personalized recommendations, real-time updates, and easy access to destination information. It aims to provide users with a seamless, budget-friendly, and enjoyable travel experience.',
       image: 'https://res.cloudinary.com/dfjlxm0ib/image/upload/v1751865912/Screenshot_2025-04-18_145429_bq09je.png',
